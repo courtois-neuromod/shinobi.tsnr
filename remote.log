@@ -1,0 +1,1 @@
+2ba413c5-c248-49cc-8061-da67f4277d13 autoenable=true bucket=cneuromod.shinobi.tsnr chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.shinobi.tsnr port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1785353025s
